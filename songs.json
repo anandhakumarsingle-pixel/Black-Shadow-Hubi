@@ -1,1 +1,42 @@
-
+[
+  {
+    "title": "Arabic Kuthu",
+    "artist": "Anirudh Ravichander",
+    "image": "https://picsum.photos/300?1"
+  },
+  {
+    "title": "Hukum",
+    "artist": "Anirudh Ravichander",
+    "image": "https://picsum.photos/300?2"
+  },
+  {
+    "title": "Vaathi Coming",
+    "artist": "Anirudh Ravichander",
+    "image": "https://picsum.photos/300?3"
+  },
+  {
+    "title": "Megham Karukatha",
+    "artist": "Dhanush",
+    "image": "https://picsum.photos/300?4"
+  },
+  {
+    "title": "Naa Ready",
+    "artist": "Thalapathy Vijay",
+    "image": "https://picsum.photos/300?5"
+  },
+  {
+    "title": "Pathala Pathala",
+    "artist": "Kamal Haasan",
+    "image": "https://picsum.photos/300?6"
+  },
+  {
+    "title": "Jolly O Gymkhana",
+    "artist": "Thalapathy Vijay",
+    "image": "https://picsum.photos/300?7"
+  },
+  {
+    "title": "Ranjithame",
+    "artist": "Thaman S",
+    "image": "https://picsum.photos/300?8"
+  }
+]
