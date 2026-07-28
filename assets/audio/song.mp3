@@ -1,0 +1,13 @@
+<audio id="song" src="assets/audio/song.mp3"></audio>
+
+<button onclick="playSong()">▶ Play</button>
+
+<script>
+function playSong() {
+  document.getElementById("song").play();
+}
+</script>
+const audio = document.getElementById("song");
+document.getElementById("playBtn").addEventListener("click", () => {
+  audio.play();
+});
